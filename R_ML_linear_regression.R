@@ -1,5 +1,5 @@
 # =========================================================
-# LINEAR REGRESSION IN R 
+# LINEAR REGRESSION IN R USING y = mx + b
 # 1. BUILT-IN lm() METHOD
 # 2. MANUAL METHOD (FORMULA BASED)
 # =========================================================
